@@ -6,4 +6,5 @@
   (lib (name Inolux)(type Legacy)(uri ${KIPRJMOD}/Inolux.lib)(options "")(descr ""))
   (lib (name WS2812D)(type Legacy)(uri ${KIPRJMOD}/WS2812D.lib)(options "")(descr ""))
   (lib (name Vishay)(type Legacy)(uri ${KIPRJMOD}/Vishay.lib)(options "")(descr ""))
+  (lib (name Hi-Link)(type Legacy)(uri ${KIPRJMOD}/Hi-Link.lib)(options "")(descr ""))
 )
